@@ -9,4 +9,6 @@
     <img height="20" src="https://img.shields.io/github/followers/titaVtuber?label=follow&logo=github&style=flat" />
   </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=titaVtuber)](https://github.com/anuraghazra/github-readme-stats)
+<p align="right">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=titaVtuber)](https://github.com/anuraghazra/github-readme-stats)
+</p>
